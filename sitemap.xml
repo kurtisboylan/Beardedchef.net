@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.beardedchef.net/</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.beardedchef.net/recipes</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.beardedchef.net/contribute</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.beardedchef.net/index</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.beardedchef.net/risotto</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.beardedchef.net/pulled_pork</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.beardedchef.net/meatballs</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.beardedchef.net/mac_cheese</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.beardedchef.net/burgers</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.beardedchef.net/chicken_parmesan</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.beardedchef.net/chinese-ribs</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.beardedchef.net/chinese-steak</loc>
+  <lastmod>2016-02-18T17:40:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>
